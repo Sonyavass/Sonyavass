@@ -1,16 +1,63 @@
-## Hi there 👋
+## Привет! 👋
 
-<!--
-**Sonyavass/Sonyavass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут **Соня**. Мне 18 лет и я учусь в ИТМО!
 
-Here are some ideas to get you started:
+### 🔭 Чем занимаюсь
+- Сейчас работаю над: Саморазвитием
+- Сейчас изучаю: С и С++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Спорт
+- играю в большой теннис и падл
+- до 8 класса занималась балетом
+- люблю кататься на лыжах
+
+### 💬 Обо мне
+- фамилия: Васильева
+- Интересный факт обо мне: Я знаю Английский язык 
+- я люблю гулять
+- я люблю ходить по улице
+- мне не 17 лет
+- мне 18!
+- я совершеннолетняя
+
+
+## Таблица
+
+| цвет | ассоциация |
+| --- | --- | --- |
+| красный | бык |
+| зеленый | трава |
+| синий | небо |
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=black)
+
+
+<!-- Карточка с активностью -->
+![GitHub Streak](https://streak-stats.demolab.com?user=wooqsee&theme=radical)
+
+
+[Ссылка на GitHub](https://github.com)
+
+## 🧑‍💻 Блок кода
+
+```python
+def greet(name):
+    return f"Привет, {name}!"
+
+print(greet("мир"))
+```
+## ✅ Планы
+
+- [x] Создать репозиторий с README
+- [x] Добавить таблицу и цитату
+- [ ] Выучить китайский язык
+- [ ] Создать макс 2.0
+      
+## 🗺 Схема моего дня
+
+```mermaid
+flowchart LR
+    A[Учёба] --> B[Тренировка]
+    B --> C[Прогулка]
+    C --> D[Код]
+```
+
